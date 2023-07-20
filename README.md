@@ -1,16 +1,7 @@
 # Atividade - Tópico 1
 
-Atividade do tópíco 1 da disciplina Desenvolvimento para Sistemas de Informação
+Atividade desenvolvida de acordo com o que foi proposto no tópíco 1 da disciplina Desenvolvimento para Sistemas de Informação.
 
-## Getting Started
+## Informações Adicionais:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este branch é apenas um ponto de partida para um aplicativo Flutter, que foi desenvolvido com a ajuda do codelab: [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)

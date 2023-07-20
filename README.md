@@ -4,4 +4,5 @@ Atividade desenvolvida de acordo com o que foi proposto no tópíco 1 da discipl
 
 ## Informações Adicionais:
 
-Este branch é apenas um ponto de partida para um aplicativo Flutter, que foi desenvolvido com a ajuda do codelab: [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+Este branch é apenas um ponto de partida para um aplicativo Flutter.
+Desenvolvido conforme o codelab: [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
